@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: uggerakeshvarma/suchiga:0
+        image: abhishekf5/cicd-e2e:33
         ports:
         - containerPort: 8000
